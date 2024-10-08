@@ -15,6 +15,9 @@
 }
 .home-table {
     width: 325px; 
+    height: 85px;
     border-radius: 10px; 
     background-color: #FFFFFF;
+    border: 3px solid #ff3333; 
+    text-align: center;
 }
