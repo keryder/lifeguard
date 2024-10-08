@@ -13,3 +13,8 @@
     display: flex; 
     justify-content: space-around; 
 }
+.home-table {
+    width: 90%; 
+    border-radius: 10px; 
+    background-color: #FFFFFF;
+}
