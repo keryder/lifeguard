@@ -1,0 +1,15 @@
+.table-properties {
+    width: 49%; 
+    border-radius: 10px; 
+    background-color: #FFFFFF;
+
+}
+.hr-properties {
+    border: none;
+    height: 5px;
+    background-color: #FFFFFF; 
+}
+.side-by-side {
+    display: flex; 
+    justify-content: space-around; 
+}
